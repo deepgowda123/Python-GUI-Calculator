@@ -1,8 +1,3 @@
-'''
-Created on 05-Nov-2025
-
-@author: HP
-'''
 # calculator.py
 
 # Step 1: Show a welcome message
