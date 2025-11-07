@@ -1,8 +1,3 @@
-'''
-Created on 05-Nov-2025
-@author: HP
-'''
-
 import tkinter as tk
 
 # --- Window Setup ---
